@@ -23,5 +23,8 @@ I'm Ilias, a ML/DL Engineer by day and musician by night.
 
 
 
+### Let's connect
 
- [![Linkedin Badge](https://img.shields.io/badge/-IliasMansouri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilias-mansouri/)](https://www.linkedin.com/in/ilias-mansouri/) 
+[![Linkedin Badge](https://img.shields.io/badge/-IliasMansouri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilias-mansouri/)](https://www.linkedin.com/in/ilias-mansouri/) 
+
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ilias_mansouri)](https://medium.com/@ilias_mansouri) 

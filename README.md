@@ -20,3 +20,8 @@ I'm Ilias, a ML/DL Engineer by day and musician by night.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-IliasMansouri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilias-mansouri/)](https://www.linkedin.com/in/ilias-mansouri/) 

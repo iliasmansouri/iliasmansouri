@@ -9,7 +9,7 @@ I'm Ilias, a ML/DL Engineer by day and musician by night.
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)

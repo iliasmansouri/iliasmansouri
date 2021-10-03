@@ -1,4 +1,6 @@
-I'm Ilias, a ML/DL Engineer by day and musician by night. 
+Hello I'm Ilias!
+
+When I am not contemplating code you might find me playing an instrument, make and consume delicious food, read a book (or two) or mayhaps even exercise.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

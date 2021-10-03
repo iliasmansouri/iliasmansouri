@@ -1,6 +1,6 @@
 Hello I'm Ilias!
 
-When I am not contemplating code you might find me playing an instrument, make and consume delicious food, read a book (or two) or mayhaps even exercise.
+When I am not contemplating code you might find me playing an instrument, make and consume delicious food, read a book (or two) or mayhaps even exercise. Deeply passionate about AI, I love to find ways on how to integrate it into useful ideas and products for the world.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
